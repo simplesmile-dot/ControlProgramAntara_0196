@@ -14,4 +14,4 @@ int main() {
         cout << "Bilangan yang diberikan = " <<x;
     
 }   
-//4
+//5
